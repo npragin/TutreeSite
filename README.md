@@ -1,2 +1,2 @@
 # TutreeSite
-Landing page for Tutree inc. first round of pretotyping
+Landing page for Tutree's first round of pretotyping.
